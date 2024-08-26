@@ -1,0 +1,9 @@
+# 网盘项目
+
+## 依赖库
+1. OpenSSL
+``` bash
+# 安装命令
+sudo apt-get update
+sudo apt-get install libssl-dev
+```
